@@ -8,7 +8,7 @@ My background is a mix of **customer support, marketing, communication, language
 
 I don't want to only learn from tutorials. **I like learning by building things, experimenting with data and working on projects connected to real life.**
 
-I love listening to some good music while I learn and gonna make a Setlist Rep soon
+I love listening to some good music while I learn and gonna make a Setlist Rep soon!
 
 ---
 
