@@ -27,7 +27,7 @@ I'm currently focusing on becoming stronger in **SQL and data analysis**, while 
 
 ## 🌍 Some things I'm interested in
 
-I naturally find myself curious about:
+I am naturaly curious about:
 
 * 📊 Human behavior & data
 * 📣 Marketing & consumer behavior
