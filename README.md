@@ -6,7 +6,6 @@ I'm a Brazilian living in Madrid 🇪🇸, building my way into **Data Analytics
 
 My background is a mix of **customer support, marketing, communication, languages and working with people from different countries**. Now I'm bringing all of that into data — learning how to turn information, patterns and everyday questions into something useful.
 
-I don't want to only learn from tutorials. **I like learning by building things, experimenting with data and working on projects connected to real life.**
 
 I love listening to some good music while I learn and gonna make a Setlist Rep soon!
 
