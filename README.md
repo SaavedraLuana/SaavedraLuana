@@ -1,28 +1,22 @@
-# Hey! I'm Luana 👋🏾
+# Hey! I'm Luana 👋🏽
 
-### Data Analytics • Marketing • Customer Experience • Curious Mind
+### Junior Data Analyst • Marketing Analytics • Customer Experience • Multilingual
 
-I'm a Brazilian living in Madrid 🇪🇸, building my way into **Data Analytics**.
+I'm a Brazilian living in Madrid 🇪🇸, currently building my career in **Data Analytics**.
 
-My background is a mix of **customer support, marketing, communication, languages and working with people from different countries**. Now I'm bringing all of that into data — learning how to turn information, patterns and everyday questions into something useful.
+My background is a mix of customer support, marketing, communication, languages and working with people from different countries. Now I'm bringing that experience into data — learning how to turn information, patterns and everyday questions into useful insights.
 
-
-I love listening to some good music while I learn and gonna make a Setlist Rep soon!
+I especially enjoy building projects from things I'm genuinely curious about. My current portfolio includes projects based on music, life abroad, beauty, hair care and personal data.
 
 ---
 
 ## 🔎 What I'm learning & working with
 
-🐍 **Python**
-🗄️ **SQL**
-📊 **Excel**
-📈 **Power BI**
-📣 **Marketing Analytics**
-💬 **Customer & User Experience**
+**Python • Pandas • Matplotlib • SQL • Excel • GitHub • Data Analysis • Marketing Analytics**
 
-I'm currently focusing on becoming stronger in **SQL and data analysis**, while expanding into visualization and business intelligence.
+I'm currently strengthening my **SQL and Python** skills while learning more about data visualization and analytical storytelling.
 
----
+I like working with real questions and building the dataset around them rather than only following tutorial projects.
 
 ## 🌍 Some things I'm interested in
 
@@ -39,29 +33,52 @@ That's also reflected in the projects I build here.
 
 ---
 
-## 🚀 Projects
 
-### 🌍 Life Abroad Analytics
+## 🚀 Featured Projects
 
-A data project exploring life abroad through numbers — including things like **cost of living, salaries, cities and international mobility**.
+### 🎧 [Music Listening Analytics](https://github.com/SaavedraLuana/music-listening-analytics)
 
-### 💇🏾‍♀️ Hair Lightening Analytics
+A Python data analysis project exploring patterns in my current everyday listening.
 
-A personal analytics project where I use my own data to explore **hair-lightening routines, products and results over time**.
+**Python • Pandas • Matplotlib • Data Visualization**
 
-I like projects like these because they start with something real and turn it into a **data question**.
+I analyzed genre distribution, release years and artist origins, while also documenting favorites and recent discoveries.
 
 ---
 
-## 🌱 Currently learning
+### 🌍 [Life Abroad Analytics](https://github.com/SaavedraLuana/life-abroad-analytics)
 
-```text
-SQL
-Python for Data Analysis
-Power BI
-Data Visualization
-Marketing Analytics
-```
+A personal data project exploring my experience living abroad through structured datasets and SQL.
+
+**SQL • Relational Data • CSV • Data Analysis**
+
+I use different tables to organize locations, experiences and other parts of my journey while practicing relational data analysis.
+
+---
+
+### 🌻 [Hair Lightening Analytics](https://github.com/SaavedraLuana/hair-lightening-analytics)
+
+An ongoing longitudinal analytics project where I collect my own data to track hair-lightening progress, treatments and changes over time.
+
+**SQL • Google Forms • Google Sheets • Data Collection**
+
+The project includes structured observations, a rating methodology, progress documentation and a data pipeline designed for future Python analysis.
+
+---
+
+I like building projects that start with something real in my life and turn it into a **data question**.
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently focused on:
+
+- strengthening my **SQL**
+- becoming more confident with **Python and Pandas**
+- improving my **data visualization** skills
+- learning more about **data cleaning and exploratory analysis**
+- preparing to expand into **Power BI**
 
 I'm still learning, and that's part of the point.
 
